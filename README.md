@@ -4,7 +4,7 @@
 
 🖤 I dabble in HTML, CSS, PHP, Ruby on rails, Pascal, and C
 
-🖤 Currently learning Solidity and Haskell
+🖤 Currently learning Solidity
 
 🖤 My passion is in server administration
 
